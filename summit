@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>サミット体験会のルール -New YukiBBS wiki
+  <script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script>
+<script>
+  function addDarkmodeWidget() {
+    new Darkmode().showWidget();
+  }
+  window.addEventListener('load', addDarkmodeWidget);
+</script>
+</head>
+<body>
+<h1>サミット体験会のルール</h1>
+<h3>サミット体験会とは？</h3>
+サミット体験会とは、若手のサミットを育成するために作られた体験会のことである。
+<h3>ルール</h3>
+<ul>
+<li>1,サミット体験会中のadd表示の変更無し</li>
+<li>2,サミットになったからといってサブ垢を大量生産しない</li>
+<li>3,<font color="red">運営を怒らせない ※最重要</font></li>
+<br>
+<h2>以上のルールを守らない場合、剥奪やIPを晒す場合があります。</h2>
+</body>
+</html>
